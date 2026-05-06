@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#FEFCF7"/>
+  <g transform="translate(80 52)">
+    <path d="M70 0 L140 40 L140 120 C140 160 112 190 70 212 C28 190 0 160 0 120 L0 40 Z" fill="none" stroke="#BFA46A" stroke-width="6"/>
+    <text x="70" y="132" text-anchor="middle" font-family="Georgia, serif" font-size="70" fill="#081E35">W</text>
+  </g>
+  <g transform="translate(285 82)">
+    <text font-family="Georgia, serif" font-size="58" fill="#081E35" letter-spacing="-1">Westmount Law Group LLP</text>
+    <line x1="0" y1="78" x2="640" y2="78" stroke="#BFA46A" stroke-width="2"/>
+    <text y="116" font-family="Arial, sans-serif" font-size="17" fill="#BFA46A" letter-spacing="7">PRECISION • TRUST • RESULTS</text>
+  </g>
+</svg>
